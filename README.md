@@ -11,3 +11,9 @@ console.log('banana')
 alert('banaaaana')
 prompt('BANANA')
 ```
+
+Colors:
+
+`rgb(9, 105, 218)`
+ `rgb(2, 115, 58)`
+  `rgb(4, 145, 38)`
