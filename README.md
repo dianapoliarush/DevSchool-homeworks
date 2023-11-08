@@ -13,11 +13,15 @@ console.log('banana')
 alert('banaaaana')
 prompt('BANANA')
 ```
+
+Some list's items:
 - Dev
 - school
 - programming
 - javascript
 
+Adding emojies 
+:smile: :smile: :smile: :technologist:  	:woman_technologist: :climbing_man: :eagle: :penguin: :world_map:
 
 Learning js topics list:
   - [x] DOM 
@@ -30,8 +34,7 @@ Learning js topics list:
 
 > [!WARNING]
 > Some text
-> Don't know what to write
-> 2515484
+
 
 ![Cute](https://news.liga.net/images/general/2019/09/11/20190911154809-5288.jpg?v=1568211325)
 
