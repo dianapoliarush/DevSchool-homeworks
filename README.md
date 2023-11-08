@@ -17,3 +17,5 @@ Colors:
 `rgb(9, 105, 218)`
  `rgb(2, 115, 58)`
   `rgb(4, 145, 38)`
+
+![Cute]([https://myoctocat.com/assets/images/base-octocat.svg](https://news.liga.net/images/general/2019/09/11/20190911154809-5288.jpg?v=1568211325)https://news.liga.net/images/general/2019/09/11/20190911154809-5288.jpg?v=1568211325)
