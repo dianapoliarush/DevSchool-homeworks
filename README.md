@@ -1,5 +1,3 @@
-
- #DevSchool is cool!
-
+# DevSchool is cool!
  ## Hello, world! I'm Diana Poliarush
  
