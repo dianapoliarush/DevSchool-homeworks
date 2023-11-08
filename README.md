@@ -1,7 +1,7 @@
 # DevSchool is awesome!
 ## Hello, world! I'm Diana Poliarush
 
-~~This information woudn't be about myself~~
+~~This information wouldn't be about myself~~
 
 _Amidst the chaos of life, there lies a serenity that whispers to the soul. In the dance of existence, each step echoes the narrative of countless possibilities. Embrace the unknown, for it is within the uncertainties that the true essence of life often resides_
 
