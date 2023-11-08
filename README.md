@@ -18,7 +18,8 @@ prompt('BANANA')
 - programming
 - javascript
 
-  Learning js topics list:
+
+Learning js topics list:
   - [x] DOM 
   - [x] Asynchronious js
   - [ ] OOP
@@ -27,6 +28,10 @@ prompt('BANANA')
   - [ ] objects
   - [x] arrays
 
+> [!WARNING]
+> Some text
+> Don't know what to write
+> 2515484
 
 ![Cute](https://news.liga.net/images/general/2019/09/11/20190911154809-5288.jpg?v=1568211325)
 
